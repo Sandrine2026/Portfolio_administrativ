@@ -1,26 +1,4 @@
-/* =====================================================
-   PORTFOLIO SANDRINE
-   HOUNKPASSE A. Ninovige Sandrine
-
-   Couleurs :
-   Violet / Rose / Noir / Doré
-===================================================== */
-
-
-/* =====================================================
-   VARIABLES
-===================================================== */
-
-:root {
-
-    --black: #111014;
-    --black-soft: #1b171f;
-
-    --white: #fffafc;
-    --cream: #f8f2f5;
-
-    --purple: #6c3c91;
-    --purple-dark: #48235f;*{box-sizing:border-box;margin:0;padding:0}
+*{box-sizing:border-box;margin:0;padding:0}
 :root{--black:#110f13;--ink:#241f27;--white:#fffafd;--cream:#f8f1f6;--purple:#713c98;--purple2:#4b2364;--pink:#d56b9e;--gold:#c9a45c;--muted:#746d76;--line:rgba(36,31,39,.13);--shadow:0 25px 70px rgba(54,28,65,.14);--max:1180px}
 html{scroll-behavior:smooth}
 body{font-family:"DM Sans",sans-serif;color:var(--ink);background:var(--white);line-height:1.7;overflow-x:hidden}
@@ -48,6 +26,30 @@ footer{background:var(--black);color:#fff;padding:25px 0}.footer-inner{display:f
 @media(max-width:520px){.section{padding:75px 0}.skills-grid{grid-template-columns:1fr}.skill{min-height:auto}.hero-actions{flex-direction:column}.btn{width:100%}.photo-frame img{height:390px}.availability{left:8px}.quote-card{right:5px}.project-bottom{align-items:start;flex-direction:column}.project-bottom a{margin-left:0;margin-right:10px}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.reveal{opacity:1;transform:none;transition:none}}
 
+
+/* =====================================================
+   PORTFOLIO SANDRINE
+   HOUNKPASSE A. Ninovige Sandrine
+
+   Couleurs :
+   Violet / Rose / Noir / Doré
+===================================================== */
+
+
+/* =====================================================
+   VARIABLES
+===================================================== */
+
+:root {
+
+    --black: #111014;
+    --black-soft: #1b171f;
+
+    --white: #fffafc;
+    --cream: #f8f2f5;
+
+    --purple: #6c3c91;
+    --purple-dark: #48235f;
 
     --pink: #d66a9c;
 
